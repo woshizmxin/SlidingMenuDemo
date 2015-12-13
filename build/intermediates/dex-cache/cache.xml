@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zhoumao/code/slidingmenu_demo/slidingmenu_demo/build/intermediates/exploded-aar/slidingmenu_demo/slidingmenu_library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3ce314769b71bcc0ac78b6054c9da1446196bc86">
+        <dex dex="/Users/zhoumao/code/slidingmenu_demo/slidingmenu_demo/build/intermediates/pre-dexed/debug/classes-805e5602863f2526c04615c40d4316d7a8521893.jar" />
+    </item>
+    <item
+        jar="/Users/zhoumao/software/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/zhoumao/code/slidingmenu_demo/slidingmenu_demo/build/intermediates/pre-dexed/debug/support-v4-19.1.0-16040de97fc58eff4d3f5b9ba78d5e8c1fbe2663.jar" />
+    </item>
+
+</items>
